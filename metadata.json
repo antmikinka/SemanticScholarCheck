@@ -1,0 +1,5 @@
+{
+  "name": "ScholarScout",
+  "description": "An AI-powered research assistant that analyzes your draft paper using Gemini and finds relevant citations via the Semantic Scholar API.",
+  "requestFramePermissions": []
+}
